@@ -1,7 +1,7 @@
 {
   "id": "/index.html",
-  "name": "Mess Pass",
-  "short_name": "MessPass",
+  "name": "LPU Touch",
+  "short_name": "LpuTouch",
   "description": "Manage your food",
   "start_url": "./index.html",
   "scope": "/",
